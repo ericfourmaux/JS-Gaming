@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #FAFAFA;
+}
+
+h3 {
+    margin: 30px 50px;
+}
+
+h6 {
+    margin: 11px 50px;
+    color: lightgrey;
+}
+
+canvas {
+    margin: 20px 50px;
+    border: 1px solid black;
+}
